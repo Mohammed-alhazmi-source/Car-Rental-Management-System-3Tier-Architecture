@@ -41,12 +41,13 @@ The system was built using the following technologies and standards:
 ## 📸 System Preview & Design
 
 ### 🏗 Architecture & Database Design
+
 ![Architecture](CRMS_Screenshorts/3TierArchitecture.png)
 ![Database Schema](ScreensShots/CarRental_RelationalSchema.png)
 
 ### 🖥 User Interface
 ![Login](ScreensShots/Login.png)
-![Main](ScreensShots/Main.png)
+![Main](https://ibb.co/fGGrbfmS)
 
 ### 📊 Data Management
 ![Data View](ScreensShots/ManagementCustomer.png)

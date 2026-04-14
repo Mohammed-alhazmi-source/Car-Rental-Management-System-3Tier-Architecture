@@ -40,6 +40,17 @@ The system was built using the following technologies and standards:
 
 ## 📸 System Preview & Design
 
+### 🏗 Architecture & Database Design
+![Architecture](Screenshots/3-TierArchitecture.png)
+![Database Schema](Screenshots/CarRental_RelationalSchema.png)
+
+### 🖥 User Interface
+![Login](Screenshots/Login.png)
+![Main](Screenshots/Main.png)
+
+### 📊 Data Management
+![Data View](Screenshots/ManagementCustomer.png)
+
 
 > [!NOTE]
 > **Technical Note:** This project focuses on building a solid infrastructure and understanding the deep "under the hood" logic of data flow between layers without the use of stored procedures, emphasizing direct data handling skills.

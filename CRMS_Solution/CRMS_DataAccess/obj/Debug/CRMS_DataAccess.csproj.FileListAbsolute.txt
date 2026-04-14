@@ -1,0 +1,6 @@
+E:\Profil_Projects\CarsRentalManagementSystem\CRMS_Solution\CRMS_DataAccess\bin\Debug\CRMS_DataAccess.dll
+E:\Profil_Projects\CarsRentalManagementSystem\CRMS_Solution\CRMS_DataAccess\bin\Debug\CRMS_DataAccess.pdb
+E:\Profil_Projects\CarsRentalManagementSystem\CRMS_Solution\CRMS_DataAccess\obj\Debug\CRMS_DataAccess.csproj.AssemblyReference.cache
+E:\Profil_Projects\CarsRentalManagementSystem\CRMS_Solution\CRMS_DataAccess\obj\Debug\CRMS_DataAccess.csproj.CoreCompileInputs.cache
+E:\Profil_Projects\CarsRentalManagementSystem\CRMS_Solution\CRMS_DataAccess\obj\Debug\CRMS_DataAccess.dll
+E:\Profil_Projects\CarsRentalManagementSystem\CRMS_Solution\CRMS_DataAccess\obj\Debug\CRMS_DataAccess.pdb

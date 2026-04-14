@@ -41,15 +41,15 @@ The system was built using the following technologies and standards:
 ## 📸 System Preview & Design
 
 ### 🏗 Architecture & Database Design
-![Architecture](Screenshots/3-TierArchitecture.png)
-![Database Schema](Screenshots/CarRental_RelationalSchema.png)
+![Architecture](ScreenShots/3-TierArchitecture.png)
+![Database Schema](ScreenShots/CarRental_RelationalSchema.png)
 
 ### 🖥 User Interface
-![Login](Screenshots/Login.png)
-![Main](Screenshots/Main.png)
+![Login](ScreenShots/Login.png)
+![Main](ScreenShots/Main.png)
 
 ### 📊 Data Management
-![Data View](Screenshots/ManagementCustomer.png)
+![Data View](ScreenShots/ManagementCustomer.png)
 
 
 > [!NOTE]

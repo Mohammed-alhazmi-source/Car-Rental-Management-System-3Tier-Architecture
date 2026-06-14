@@ -42,8 +42,8 @@ The system was built using the following technologies and standards:
 
 ### 🏗 Architecture & Database Design
 
-### 1. Management Appointments
-<img src="CRMS_Screensshorts/CarRental_RelationalSchema.jpg" width="700">
+### 1. Relational Schema
+<img src="CRMS_Screenshorts/CarRental_RelationalSchema.jpg" width="700">
 
 ---
 

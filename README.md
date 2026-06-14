@@ -42,16 +42,46 @@ The system was built using the following technologies and standards:
 
 ### 🏗 Architecture & Database Design
 
-![Architecture](CRMS_Screenshorts/3TierArchitecture.png)
-![Database Schema](Screensshorts/CarRental_RelationalSchema.png)
+### 1. Management Appointments
+<img src="CRMS_Screensshorts/CarRental_RelationalSchema.jpg" width="700">
 
-### 🖥 User Interface
-![Login](Screenshrots/Login.png)
-![Main](Screenshorts)
+---
 
-### 📊 Data Management
-![Data View](Screenshorts/ManagementCustomer.png)
+### 2. 3-Tier Architecture
+<img src="CRMS_Screenshorts/3TierArchitecture.png" width="700">
 
+---
+
+### 3. Business Logic Tier
+<img src="CRMS_Screenshorts/BusinessLogicLayer.png" width="700">
+
+---
+
+### 4. Data Access Tier
+<img src="CRMS_Screenshorts/DataAccessLayer.png" width="700">
+
+---
+
+
+### 5. Login
+<img src="CRMS_Screenshorts/Login.png" width="700">
+
+---
+
+### 5. Main Screen
+<img src="CRMS_Screenshorts/Main.png" width="700">
+
+---
+
+### 6. Management Customers
+<img src="CRMS_Screenshorts/ManagementCustomer.png" width="700">
+
+---
+
+### 6. Management Models
+<img src="CRMS_Screenshorts/ManagementModels.png" width="700">
+
+---
 
 > [!NOTE]
 > **Technical Note:** This project focuses on building a solid infrastructure and understanding the deep "under the hood" logic of data flow between layers without the use of stored procedures, emphasizing direct data handling skills.
